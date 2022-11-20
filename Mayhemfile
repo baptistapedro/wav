@@ -1,0 +1,5 @@
+project: metadatawav
+target: metadatawav
+cmds:
+  - cmd: /metadata @@
+    env: {}
